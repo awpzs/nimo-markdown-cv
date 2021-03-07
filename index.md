@@ -4,9 +4,11 @@ title: Curriculum Vitae
 email:
   url: mailto:shizhang.chn@gmail.com
   text: shizhang.chn@gmail.com
-homepage:
+<!-- 
+  homepage:
   url: https://awpzs.github.io/
   text: awpzs.github.io
+-->
 ---
 
 # Shi **Zhang**
@@ -54,8 +56,6 @@ Chengdu, China
 _Postdoctoral research assistant_<br>
 Worked on the Leverhulme Trust research project **The mechanisms of choosing pronouns: a cross-linguistic study** with [Kumiko Fukumura](https://www.stir.ac.uk/people/38029).
 
----
-
 ## Publications
 
 ### [**L1 attrition of perfective and durative aspect marking in Mandarin Chinese**](https://benjamins.com/catalog/sibil.59.10zha) `2020`
@@ -69,6 +69,8 @@ _In B. Brehmer, & J. Treffers-Daller (Eds.), Lost in Transmission? The Role of A
 _In Language Studies Working Papers._<br>
 [[PDF](https://www.reading.ac.uk/web/files/english-language/elal_Vol_8_Zhang.pdf)]
 
+---
+
 ## Conferences and talks
 
 ### [**Competition and the choice of referring expressions in Chinese and English**](https://osf.io/bnvmf/) `2020.9`
@@ -76,27 +78,27 @@ _In Language Studies Working Papers._<br>
 _Poster presented at AmLap 2020_<br>
 [[www](https://osf.io/bnvmf/)]
 
-### [**The effect of L2 exposure on processing and interpreting reflexive binding and aspect marking in Mandarin-English bilinguals**] `2017.8`
+### [**The effect of L2 exposure on processing and interpreting reflexive binding and aspect marking in Mandarin-English bilinguals**]() `2017.8`
 **Shi Zhang**.<br> 
 _Paper presented at the EuroSLA 27 Doctoral Workshop_<br>
 
-### [**L1 attrition of perfective/durative aspect marking in Mandarin Chinese**] `2017.3`
+### [**L1 attrition of perfective/durative aspect marking in Mandarin Chinese**]() `2017.3`
 **Shi Zhang**.<br> 
 _Paper presented at the Language Studies PhD Conference_<br>
 
-### [**Heritage speakers and bilingual language processing**] `2016.9`
+### [**Heritage speakers and bilingual language processing**]() `2016.9`
 **Shi Zhang**.<br> 
 _Poster presented at the Heritage Language Acquisition Workshop_<br>
 
-### [**The HL and L2 processing of aspect and binding in Mandarin**] `2016.3`
+### [**The HL and L2 processing of aspect and binding in Mandarin**]() `2016.3`
 **Shi Zhang**.<br> 
 _Poster presented at the the 11th Newcastle Postgraduate Conference in Linguistics_<br>
 
-### [**The re-exposure effect among heritage speakers of Mandarin**] `2015.11`
+### [**The re-exposure effect among heritage speakers of Mandarin**]() `2015.11`
 **Shi Zhang**.<br> 
 _Paper presented at the London Second Language Acquisition Research Forum_<br>
 
-### [**The processing of aspect and reflexive binding in Mandarin HSs and L2 learners**] `2015.10`
+### [**The processing of aspect and reflexive binding in Mandarin HSs and L2 learners**]() `2015.10`
 **Shi Zhang**.<br> 
 _Poster presented at Lost in Transmission: The Role of Attrition and Input in Heritage Language Development Workshop_<br>
 
@@ -111,8 +113,6 @@ Scholarships for Academic Excellence `Sichuan Normal University, 2010` <br>
 Scholarships for Academic Excellence `Sichuan Normal University, 2009` <br>
 Scholarships for Academic Excellence `Sichuan Normal University, 2008`<br>
 Outstanding Student of Sichuan Normal University `Sichuan Normal University, 2008` <br>
-
----
 
 ## Skills
 
