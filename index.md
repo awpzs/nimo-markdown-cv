@@ -4,11 +4,6 @@ title: Curriculum Vitae
 email:
   url: mailto:shizhang.chn@gmail.com
   text: shizhang.chn@gmail.com
-<!-- 
-  homepage:
-  url: https://awpzs.github.io/
-  text: awpzs.github.io
--->
 ---
 
 # Shi **Zhang**
@@ -19,6 +14,11 @@ Supported arguments:
     - homepage: url, text
     - phone
     - email
+-->
+<!-- to add in the future
+  homepage:
+  url: https://awpzs.github.io/
+  text: awpzs.github.io
 -->
 
 {% include cv-contact.html %}
