@@ -47,58 +47,85 @@ Chengdu, China
 
 - BA in Chinese Language and Literature
 
+## Experience
+
+### **University of Stirling** `2020.1 - present`
+
+_Postdoctoral research assistant_<br>
+Worked on the Leverhulme Trust research project **The mechanisms of choosing pronouns: a cross-linguistic study** with [Kumiko Fukumura](https://www.stir.ac.uk/people/38029).
+
+---
+
 ## Publications
 
-### '2020' [**L1 attrition of perfective and durative aspect marking in Mandarin Chinese**](https://benjamins.com/catalog/sibil.59.10zha)
+### [**L1 attrition of perfective and durative aspect marking in Mandarin Chinese**](https://benjamins.com/catalog/sibil.59.10zha) `2020`
 **Shi Zhang**.<br> 
 _In B. Brehmer, & J. Treffers-Daller (Eds.), Lost in Transmission? The Role of Attrition and Input in Heritage Language Development_<br>
 [[www](https://benjamins.com/catalog/sibil.59.10zha)]
 
-### '2017' [**Heritage speakers and morphosyntactic processing in bilinguals**](https://www.reading.ac.uk/web/files/english-language/elal_Vol_8_Zhang.pdf)
+### [**Heritage speakers and morphosyntactic processing in bilinguals**](https://www.reading.ac.uk/web/files/english-language/elal_Vol_8_Zhang.pdf) `2017`
 
 **Shi Zhang**.<br>
 _In Language Studies Working Papers._<br>
 [[PDF](https://www.reading.ac.uk/web/files/english-language/elal_Vol_8_Zhang.pdf)]
 
-## Selected conferences and talks
+## Conferences and talks
 
-### [**Competition and the choice of referring expressions in Chinese and English**](https://osf.io/bnvmf/)
+### [**Competition and the choice of referring expressions in Chinese and English**](https://osf.io/bnvmf/) `2020.9`
 **Shi Zhang**, and Kumiko Fukumura.<br> 
 _Poster presented at AmLap 2020_<br>
 [[www](https://osf.io/bnvmf/)]
 
+### [**The effect of L2 exposure on processing and interpreting reflexive binding and aspect marking in Mandarin-English bilinguals**] `2017.8`
+**Shi Zhang**.<br> 
+_Paper presented at the EuroSLA 27 Doctoral Workshop_<br>
+
+### [**L1 attrition of perfective/durative aspect marking in Mandarin Chinese**] `2017.3`
+**Shi Zhang**.<br> 
+_Paper presented at the Language Studies PhD Conference_<br>
+
+### [**Heritage speakers and bilingual language processing**] `2016.9`
+**Shi Zhang**.<br> 
+_Poster presented at the Heritage Language Acquisition Workshop_<br>
+
+### [**The HL and L2 processing of aspect and binding in Mandarin**] `2016.3`
+**Shi Zhang**.<br> 
+_Poster presented at the the 11th Newcastle Postgraduate Conference in Linguistics_<br>
+
+### [**The re-exposure effect among heritage speakers of Mandarin**] `2015.11`
+**Shi Zhang**.<br> 
+_Paper presented at the London Second Language Acquisition Research Forum_<br>
+
+### [**The processing of aspect and reflexive binding in Mandarin HSs and L2 learners**] `2015.10`
+**Shi Zhang**.<br> 
+_Poster presented at Lost in Transmission: The Role of Attrition and Input in Heritage Language Development Workshop_<br>
+
 ---
-
-## Experience
-
-### **University of Stirling, Department of Psychology** `2020.1 -`
-
-_Postdoctoral research assistant_<br>
-Worked on the Leverhulme Trust research project **The mechanisms of choosing pronouns: a cross-linguistic study** with [Kumiko Fukumura](https://www.stir.ac.uk/people/38029).
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+University of Reading International Research Studentship `University of Reading, 2014` <br>
+Newcastle University International Postgraduate Scholarship `Newcastle University, 2011` <br>
+Outstanding Graduate of Sichuan Normal University `Sichuan Normal University, 2011` <br>
+Scholarships for Academic Excellence `Sichuan Normal University, 2010` <br>
+Scholarships for Academic Excellence `Sichuan Normal University, 2009` <br>
+Scholarships for Academic Excellence `Sichuan Normal University, 2008`<br>
+Outstanding Student of Sichuan Normal University `Sichuan Normal University, 2008` <br>
 
 ---
 
-## Research
+## Skills
 
-Research Assistant `University of Reading, 2014-2017` <br>
+Languages: Chinese, English <br>
+Programming languages: Python, R <br>
+Experimental software: pcIBEX, PsychoPy, Lab.js, E-Prime, OpenSesame <br>
+Eye-tracking: GazePoint, Eyelink <br>
 
-## Teaching
+## Other Research & Teaching
 
 MOOC tutor `University of Reading, 2016 - 2017` <br>
 Teaching Assistant `University of Reading, 2015 - 2017` <br>
+Research Assistant `University of Reading, 2014-2017` <br>
 
 <!-- ## Service
 
