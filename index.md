@@ -51,12 +51,16 @@ Chengdu, China
 
 ## Experience
 
-### **University of Stirling** `2020.1 - present`
+### **University of Stirling** `2020.1 - 2021.5`
 
 _Postdoctoral research assistant_<br>
 Worked on the Leverhulme Trust research project **The mechanisms of choosing pronouns: a cross-linguistic study** with [Kumiko Fukumura](https://www.stir.ac.uk/people/38029).
 
 ## Publications
+
+### **Representations underling pronoun choice in Italian and English** `2021`
+Kumiko Fukumura, Coralie Herve, Sandra Villata, **Shi Zhang**, and Francesca Foppolo.<br>
+_Under review_<br>
 
 ### [**L1 attrition of perfective and durative aspect marking in Mandarin Chinese**](https://benjamins.com/catalog/sibil.59.10zha) `2020`
 **Shi Zhang**.<br> 
@@ -64,7 +68,6 @@ _In B. Brehmer, & J. Treffers-Daller (Eds.), Lost in Transmission? The Role of A
 [[www](https://benjamins.com/catalog/sibil.59.10zha)]
 
 ### [**Heritage speakers and morphosyntactic processing in bilinguals**](https://www.reading.ac.uk/web/files/english-language/elal_Vol_8_Zhang.pdf) `2017`
-
 **Shi Zhang**.<br>
 _In Language Studies Working Papers._<br>
 [[PDF](https://www.reading.ac.uk/web/files/english-language/elal_Vol_8_Zhang.pdf)]
@@ -117,7 +120,7 @@ Outstanding Student of Sichuan Normal University `Sichuan Normal University, 200
 ## Skills
 
 Languages: Chinese, English <br>
-Programming languages: Python, R <br>
+Programming languages: R, Python, JavaScript <br>
 Experimental software: pcIBEX, PsychoPy, Lab.js, E-Prime, OpenSesame <br>
 Eye-tracking: GazePoint, Eyelink <br>
 
