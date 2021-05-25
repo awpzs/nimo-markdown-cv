@@ -58,6 +58,12 @@ Worked on the Leverhulme Trust research project **The mechanisms of choosing pro
 
 ## Publications
 
+### **Representations underling pronoun choice in Italian and English** `in preparation`
+**Shi Zhang**, and Kumiko Fukumura.<br>
+
+### **Structural priming is driven by both conceptual and syntactic perseverance** `in preparation`
+Kumiko Fukumura, and **Shi Zhang**.<br>
+
 ### **Representations underling pronoun choice in Italian and English** `2021`
 Kumiko Fukumura, Coralie Herve, Sandra Villata, **Shi Zhang**, and Francesca Foppolo.<br>
 _Under review_<br>
@@ -121,7 +127,7 @@ Outstanding Student of Sichuan Normal University `Sichuan Normal University, 200
 
 Languages: Chinese, English <br>
 Programming languages: R, Python, JavaScript <br>
-Experimental software: pcIBEX, PsychoPy, Lab.js, E-Prime, OpenSesame <br>
+Software/tools: PsychoPy, pcIBEX, Gorilla.sc, git, Lab.js, E-Prime, OpenSesame <br>
 Eye-tracking: GazePoint, Eyelink <br>
 
 ## Other Research & Teaching
