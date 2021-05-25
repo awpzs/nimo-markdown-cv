@@ -58,7 +58,7 @@ Worked on the Leverhulme Trust research project **The mechanisms of choosing pro
 
 ## Publications
 
-### **Representations underling pronoun choice in Italian and English** `in preparation`
+### **Conceptual similarities and the choice of referring expressions in Mandarin Chinese** `in preparation`
 **Shi Zhang**, and Kumiko Fukumura.<br>
 
 ### **Structural priming is driven by both conceptual and syntactic perseverance** `in preparation`
