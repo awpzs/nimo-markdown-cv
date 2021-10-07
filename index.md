@@ -61,12 +61,9 @@ Worked on the Leverhulme Trust research project **The mechanisms of choosing pro
 ### **Conceptual similarities and the choice of referring expressions in Mandarin Chinese** `in preparation`
 **Shi Zhang**, and Kumiko Fukumura.<br>
 
-### **Structural priming is driven by both conceptual and syntactic perseverance** `in preparation`
-Kumiko Fukumura, and **Shi Zhang**.<br>
-
 ### **Representations underling pronoun choice in Italian and English** `2021`
 Kumiko Fukumura, Coralie Herve, Sandra Villata, **Shi Zhang**, and Francesca Foppolo.<br>
-_Under review_<br>
+_In press_<br>
 
 ### [**L1 attrition of perfective and durative aspect marking in Mandarin Chinese**](https://benjamins.com/catalog/sibil.59.10zha) `2020`
 **Shi Zhang**.<br> 
@@ -81,6 +78,11 @@ _In Language Studies Working Papers._<br>
 ---
 
 ## Conferences and talks
+
+### [**Interface between conceptual and syntactic perseverance in noun phrase production**](https://amlap2021.github.io/program/24.pdf) `2021.9`
+Kumiko Fukumura, and **Shi Zhang**.<br> 
+_Poster presented at AmLap 2021_<br>
+[[www](https://amlap2021.github.io/program/24.pdf)]
 
 ### [**Competition and the choice of referring expressions in Chinese and English**](https://osf.io/bnvmf/) `2020.9`
 **Shi Zhang**, and Kumiko Fukumura.<br> 
@@ -133,7 +135,10 @@ Eye-tracking: GazePoint, Eyelink <br>
 ## Other Research & Teaching
 
 MOOC tutor `University of Reading, 2016 - 2017` <br>
+_A beginner's guide to writing in English for university study_ <br>
 Teaching Assistant `University of Reading, 2015 - 2017` <br>
+_Research design methods_ <br>
+_Language and the mind_ <br>
 Research Assistant `University of Reading, 2014-2017` <br>
 
 <!-- ## Service
